@@ -31,7 +31,7 @@ Saya Muhammad Syafiq A dengan NIM 2500254 mengerjakan TP 5 dalam mata kuliah Des
 ```
 
 ## Deskripsi Program
-Program ini adalah sebuah aplikasi permainan desktop 2D bergaya arcade yang mengkloning mekanik permainan Flappy Bird. Dibangun menggunakan bahasa pemrograman Java dengan library antarmuka pengguna Java Swing dan AWT. Permainan ini mengimplementasikan konsep-konsep Pemrograman Berorientasi Objek (OOP) serta mencakup mekanik fisika dasar (gravitasi dan pergerakan objek), deteksi tabrakan (collision detection), sistem skor, tingkat kesulitan dinamis (perubahan jarak dan kecepatan rintangan), antarmuka multi-layar (Main Menu dan Game), serta integrasi multimedia berupa efek suara dan musik latar (BGM).
+Aplikasi Flappy Bird ini adalah game kasual berbasis desktop yang dikembangkan menggunakan Java beserta library antarmuka Java Swing. Di dalam permainan ini, pengguna bertugas menjaga karakter burung tetap terbang melintasi celah-celah rintangan pipa. Permainan akan langsung berakhir jika karakter membentur pipa atau terperosok ke dasar layar. Sebagai imbalannya, pemain akan mendapatkan tambahan satu angka untuk setiap rintangan yang berhasil dilewati dengan selamat.
 
 ## Desain Program
 Program dibagi menjadi beberapa class :
