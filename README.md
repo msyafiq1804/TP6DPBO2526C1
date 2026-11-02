@@ -67,8 +67,7 @@ Program dibagi menjadi beberapa class :
 
 ### Tampilan awal
 
-<img width="427" height="782" alt="game over" src="https://github.com/user-attachments/assets/b13333f8-0191-4718-bb32-0e4c2fa8641c" />
-
+<img width="430" height="793" alt="tampilan awal menu" src="https://github.com/user-attachments/assets/ee7b3286-1f77-4d34-931f-58f445fd3216" />
 
 ### Game Over
 
